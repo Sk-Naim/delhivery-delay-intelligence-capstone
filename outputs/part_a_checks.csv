@@ -1,0 +1,29 @@
+metric,value
+raw_rows,1224
+duplicate_rows_removed,24
+rows_after_dedup,1200
+missing_distance_km_before,36
+missing_parcel_weight_before,24
+sentinel_weight_rows,5
+missing_declared_value_before,12
+missing_payment_mode_before,18
+service_type_spellings_before,12
+service_type_spellings_after,3
+median_distance_km,314.95
+median_parcel_weight_kg,1.83
+median_declared_value_inr,1121.5
+rows_after_hub_merge,1200
+nulls_in_features_and_target,0
+delayed_count,278
+delay_rate,0.2317
+hours_q1,43.26
+hours_q3,72.56
+hours_lower_bound,-0.71
+hours_upper_bound,116.52
+hours_outlier_count,1
+hours_q1 / hours_q3,43.26 / 72.56
+hours_lower_bound / hours_upper_bound,-0.71 / 116.52
+declared_value_mean_inr,1533.05
+declared_value_median_inr,1121.5
+log_declared_value_mean,7.028
+log_declared_value_median,7.022
